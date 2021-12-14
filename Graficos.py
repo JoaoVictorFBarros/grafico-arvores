@@ -56,7 +56,7 @@ plt.bar('Rubro Negra',0.0553333, color = '#D9946C')
 plt.bar('AVL',0.0509, color = '#D5D9B8')
 
 plt.ylabel('Segundos',fontsize = 14)
-plt.title('Busca - 10 Mil entradas',fontsize = 16)
+plt.title('Busca - 100 Mil entradas',fontsize = 16)
 
 Figure.tight_layout(pad = 2.8)
 plt.show()
